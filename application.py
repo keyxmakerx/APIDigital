@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-inFile = open("data.txt")
+import csv 
 outFile = open("result.txt", "w")
 buffer = []
 keepCurrentSet = True
