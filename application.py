@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 inFile = open("data.txt")
 outFile = open("result.txt", "w")
 buffer = []
