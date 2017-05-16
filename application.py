@@ -16,3 +16,4 @@ for line in inFile:
         keepCurrentSet = True
 inFile.close()
 outFile.close()
+
