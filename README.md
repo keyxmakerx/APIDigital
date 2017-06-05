@@ -1,4 +1,3 @@
 # APIDigital
 
-Retrieved script from Peter Lyons @
-http://stackoverflow.com/questions/2474216/python-to-extract-data-from-a-file
+Multiple revisions made, currently work in progress. Please keep in mind that the .py application does not work. 
